@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "golang-concurrency": {
+      "source": "samber/cc-skills-golang",
+      "sourceType": "github",
+      "computedHash": "f3150fe4fff3bf31afd88fc132f9ad6dbef53f3e4cfa39b52b92c351faff6f2a"
+    }
+  }
+}
